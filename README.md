@@ -1,7 +1,7 @@
 # TrajecySimulation
 Use Matlab to simulate the two dimensional motion trajectories of nine planets .
 ### How to use
-Just run the file in Matlab app,then you will see an image is being drawn.
+Just run the code in Matlab app,then you will see an image is being drawn.
 ### Description
 Since the nine planets have different parameters such as mass and eccentricity, their motion periods can be calculated separately according to Kepler's three laws and simulated and displayed through code.
 ### Show results 
